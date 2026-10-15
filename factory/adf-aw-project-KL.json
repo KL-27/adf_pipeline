@@ -1,0 +1,15 @@
+{
+	"name": "adf-aw-project-KL",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b05a833a-0565-44e9-8a6f-321130779d0d",
+		"tenantId": "1327fd5c-807a-45fa-bf50-c1f554ded305"
+	}
+}
